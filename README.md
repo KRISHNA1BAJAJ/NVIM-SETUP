@@ -1,9 +1,26 @@
-**This repo is supposed to used as config by NvChad users!**
+My Neovim Setup
+This is my personal Neovim configuration, built for speed, minimal bloat, and modern development workflows.
+Tested on Windows with NvChad as the base config.
 
-- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
-- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
-- So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
+Features
+NvChad for UI, theme, and sane defaults
 
-# Credits
+Mason for easy LSP, formatter, and debugger management
 
-1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+clangd for C/C++ development
+
+Lazy.nvim for plugin management
+
+Keybindings optimized for quick compile/run cycles
+
+Support for multiple languages (C++, Python, JavaScript, HTML, CSS)
+
+Requirements
+Neovim (>= 0.9)
+
+Git
+
+Node.js & npm (for certain LSPs)
+
+Python 3 (with pynvim)
+
