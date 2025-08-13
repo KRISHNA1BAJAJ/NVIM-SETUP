@@ -1,0 +1,213 @@
+[INFO  Sun Sep 29 16:29:30 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Sun Sep 29 16:29:35 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-variables-language-server) {}
+[INFO  Sun Sep 29 16:29:48 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  Sun Sep 29 16:29:48 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-variables-language-server)
+[INFO  Sun Sep 29 16:29:56 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Sun Sep 29 16:30:04 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=htmlhint) {}
+[INFO  Sun Sep 29 16:30:05 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Sun Sep 29 16:30:09 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=htmlhint)
+[INFO  Sun Sep 29 16:30:21 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Sun Sep 29 16:30:23 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettierd) {}
+[INFO  Sun Sep 29 16:30:26 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pretty-php) {}
+[INFO  Sun Sep 29 16:30:27 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Sun Sep 29 16:30:32 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pretty-php)
+[INFO  Sun Sep 29 16:30:37 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyink) {}
+[INFO  Sun Sep 29 16:30:39 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pylint) {}
+[INFO  Sun Sep 29 16:30:42 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettierd)
+[INFO  Sun Sep 29 16:30:43 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Sun Sep 29 16:30:44 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  Sun Sep 29 16:30:59 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Sun Sep 29 16:31:00 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyink)
+[INFO  Sun Sep 29 16:31:03 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pylint)
+[INFO  Sun Sep 29 16:31:22 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  Thu Oct  3 23:09:07 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitlint) {}
+[INFO  Thu Oct  3 23:09:09 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitui) {}
+[INFO  Thu Oct  3 23:09:10 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=glsl_analyzer) {}
+[INFO  Thu Oct  3 23:09:18 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=glsl_analyzer)
+[INFO  Thu Oct  3 23:09:20 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitui)
+[INFO  Thu Oct  3 23:09:30 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitlint)
+[INFO  Mon Oct  7 15:55:18 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=jdtls) {}
+[INFO  Mon Oct  7 15:55:21 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-debug-adapter) {}
+[INFO  Mon Oct  7 15:55:22 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[ERROR Mon Oct  7 15:55:33 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=jdtls) error="Installation was aborted."
+[ERROR Mon Oct  7 15:55:33 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-debug-adapter) error="Installation was aborted."
+[ERROR Mon Oct  7 15:55:33 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error="Installation was aborted."
+[INFO  Thu Oct 10 14:20:44 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Thu Oct 10 14:21:03 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pretty-php) {}
+[INFO  Thu Oct 10 14:21:06 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Thu Oct 10 14:21:07 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pretty-php)
+[ERROR Thu Oct 10 14:21:30 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=pyright) error='...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:\\\\Users\\\\krish\\\\AppData\\\\Local\\\\nvim-data\\\\mason\\\\packages\\\\pyright".'
+[INFO  Thu Oct 10 14:21:39 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[ERROR Thu Oct 10 14:21:52 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=pyright) error='...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:\\\\Users\\\\krish\\\\AppData\\\\Local\\\\nvim-data\\\\mason\\\\packages\\\\pyright".'
+[INFO  Thu Oct 10 14:21:56 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Thu Oct 10 14:22:00 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[ERROR Thu Oct 10 14:22:11 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=pyright) error='...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:\\\\Users\\\\krish\\\\AppData\\\\Local\\\\nvim-data\\\\mason\\\\packages\\\\pyright".'
+[INFO  Mon Dec  9 16:29:23 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=js-debug-adapter) {}
+[INFO  Mon Dec  9 16:29:26 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=js-debug-adapter)
+[ERROR Tue Dec 10 14:23:00 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Tue Dec 10 14:23:00 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Tue Dec 10 14:23:00 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for github.get_latest_release
+[ERROR Tue Dec 10 14:23:00 2024] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:146: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR Wed Dec 11 02:39:16 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Wed Dec 11 02:39:16 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.github.com'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Wed Dec 11 02:39:16 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for github.get_latest_release
+[ERROR Wed Dec 11 02:39:16 2024] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:146: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[INFO  Wed Dec 11 02:39:26 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitui) {}
+[INFO  Wed Dec 11 02:39:30 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Wed Dec 11 02:39:31 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pretty-php) {}
+[ERROR Wed Dec 11 02:39:39 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=pretty-php) error="spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'github.com'\r\nAt line:1 char:160\r\n+ ... pe]::Tls12; iwr -Headers @{\"User-Agent\"=\"mason.nvim v1.10.0 (+https:/ ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\r\n \r\n\nFailed to download file \"https://github.com/lkrms/pretty-php/releases/download/v0.4.81/pretty-php.phar\"."
+[ERROR Wed Dec 11 02:39:39 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gitui) error="spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'github.com'\r\nAt line:1 char:160\r\n+ ... pe]::Tls12; iwr -Headers @{\"User-Agent\"=\"mason.nvim v1.10.0 (+https:/ ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\r\n \r\n\nFailed to download file \"https://github.com/extrawurst/gitui/releases/download/v0.26.3/gitui-win.tar.gz\"."
+[INFO  Wed Dec 11 02:39:44 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettierd) {}
+[INFO  Wed Dec 11 02:39:45 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyink) {}
+[ERROR Wed Dec 11 02:39:46 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Wed Dec 11 02:39:47 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'pypi.org'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Wed Dec 11 02:39:47 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for pypi.get_supported_python_versions
+[INFO  Wed Dec 11 02:39:48 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pylint) {}
+[INFO  Wed Dec 11 02:39:51 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR Wed Dec 11 02:39:52 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error="spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'github.com'\r\nAt line:1 char:160\r\n+ ... pe]::Tls12; iwr -Headers @{\"User-Agent\"=\"mason.nvim v1.10.0 (+https:/ ...\r\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc \r\n   eption\r\n    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand\r\n \r\n\nFailed to download file \"https://github.com/clangd/clangd/releases/download/19.1.2/clangd-windows-19.1.2.zip\"."
+[ERROR Wed Dec 11 02:40:02 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Wed Dec 11 02:40:02 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'pypi.org'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim v1.10.0 (+https:/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR Wed Dec 11 02:40:02 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for pypi.get_supported_python_versions
+[ERROR Wed Dec 11 02:40:11 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=pyink) error=spawn: C:\Users\krish\AppData\Local\nvim-data\mason\packages\pyink\venv\Scripts\python.exe failed with exit code 1 and signal 0. 
+[ERROR Wed Dec 11 02:40:20 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=pylint) error=spawn: C:\Users\krish\AppData\Local\nvim-data\mason\packages\pylint\venv\Scripts\python.exe failed with exit code 1 and signal 0. 
+[INFO  Wed Dec 11 02:40:39 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=xmlformatter) {}
+[ERROR Wed Dec 11 02:40:39 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: "Package does not specify supported Python versions."
+[ERROR Wed Dec 11 02:40:40 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: "Package does not specify supported Python versions."
+[ERROR Wed Dec 11 02:40:40 2024] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for pypi.get_supported_python_versions
+[INFO  Wed Dec 11 02:40:58 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Wed Dec 11 02:41:00 2024] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=xmlformatter)
+[INFO  Wed Jan 22 10:07:16 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[INFO  Wed Jan 22 10:07:20 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=jdtls) {}
+[INFO  Wed Jan 22 10:07:25 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-debug-adapter) {}
+[INFO  Wed Jan 22 10:07:30 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-test) {}
+[ERROR Wed Jan 22 10:07:32 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error=spawn: pwsh failed with exit code 1 and signal 0. 
+[INFO  Wed Jan 22 10:07:38 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-debug-adapter)
+[INFO  Wed Jan 22 10:07:44 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[INFO  Wed Jan 22 10:07:45 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-test)
+[ERROR Wed Jan 22 10:08:15 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error=spawn: pwsh failed with exit code 1 and signal 0. 
+[INFO  Wed Jan 22 10:08:19 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=jdtls)
+[INFO  Wed Jan 22 10:09:57 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[ERROR Wed Jan 22 10:10:07 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error=spawn: pwsh failed with exit code 1 and signal 0. 
+[INFO  Wed Jan 22 10:12:00 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[ERROR Wed Jan 22 10:12:10 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error=spawn: pwsh failed with exit code 1 and signal 0. 
+[INFO  Mon Jun  9 08:51:29 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Mon Jun  9 08:51:35 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitui) {}
+[INFO  Mon Jun  9 08:51:37 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=glsl_analyzer) {}
+[INFO  Mon Jun  9 08:51:40 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=htmlhint) {}
+[INFO  Mon Jun  9 08:51:42 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitui)
+[INFO  Mon Jun  9 08:51:43 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-test) {}
+[INFO  Mon Jun  9 08:51:44 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=glsl_analyzer)
+[INFO  Mon Jun  9 08:51:48 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Mon Jun  9 08:51:49 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=htmlhint)
+[INFO  Mon Jun  9 08:51:49 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  Mon Jun  9 08:51:51 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pretty-php) {}
+[INFO  Mon Jun  9 08:51:52 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-test)
+[INFO  Mon Jun  9 08:51:53 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Mon Jun  9 08:51:53 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=jdtls) {}
+[INFO  Mon Jun  9 08:51:53 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pretty-php)
+[INFO  Mon Jun  9 08:51:54 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Mon Jun  9 08:51:54 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-variables-language-server) {}
+[INFO  Mon Jun  9 08:51:54 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitui) {}
+[INFO  Mon Jun  9 08:51:55 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Mon Jun  9 08:51:55 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-test) {}
+[INFO  Mon Jun  9 08:51:56 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Mon Jun  9 08:51:58 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=xmlformatter) {}
+[INFO  Mon Jun  9 08:51:59 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettierd) {}
+[INFO  Mon Jun  9 08:51:59 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitui)
+[INFO  Mon Jun  9 08:51:59 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-debug-adapter) {}
+[ERROR Mon Jun  9 08:51:59 2025] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: "Package does not specify supported Python versions."
+[ERROR Mon Jun  9 08:52:00 2025] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: "Package does not specify supported Python versions."
+[ERROR Mon Jun  9 08:52:00 2025] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for pypi.get_supported_python_versions
+[INFO  Mon Jun  9 08:52:00 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=js-debug-adapter) {}
+[INFO  Mon Jun  9 08:52:03 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Mon Jun  9 08:52:03 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=js-debug-adapter)
+[INFO  Mon Jun  9 08:52:11 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pretty-php) {}
+[INFO  Mon Jun  9 08:52:11 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-variables-language-server)
+[INFO  Mon Jun  9 08:52:15 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Mon Jun  9 08:52:15 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Mon Jun  9 08:52:15 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitui) {}
+[INFO  Mon Jun  9 08:52:15 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pretty-php)
+[INFO  Mon Jun  9 08:52:18 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=js-debug-adapter) {}
+[INFO  Mon Jun  9 08:52:18 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  Mon Jun  9 08:52:19 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=glsl_analyzer) {}
+[INFO  Mon Jun  9 08:52:19 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettierd)
+[INFO  Mon Jun  9 08:52:19 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=htmlhint) {}
+[INFO  Mon Jun  9 08:52:19 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitui)
+[INFO  Mon Jun  9 08:52:21 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitlint) {}
+[INFO  Mon Jun  9 08:52:21 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=js-debug-adapter)
+[INFO  Mon Jun  9 08:52:21 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Mon Jun  9 08:52:21 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Mon Jun  9 08:52:22 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=xmlformatter)
+[INFO  Mon Jun  9 08:52:23 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=glsl_analyzer)
+[INFO  Mon Jun  9 08:52:24 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Mon Jun  9 08:52:24 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=htmlhint)
+[INFO  Mon Jun  9 08:52:24 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-debug-adapter)
+[INFO  Mon Jun  9 08:52:32 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Mon Jun  9 08:52:37 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=java-test)
+[INFO  Mon Jun  9 08:52:37 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitlint)
+[INFO  Mon Jun  9 08:52:44 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  Mon Jun  9 08:53:02 2025] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=jdtls)
